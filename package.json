@@ -1,0 +1,14 @@
+{
+  "name": "foundation-service-app",
+  "version": "1.0.0",
+  "description": "Full-stack social development foundation website and support app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
